@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://sam:3.14159p@devconnector.7v5is.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mypointlesssecret",
+  "githubClientID": "aad130af908db996f6af",
+  "githubSecret": "ba2e618caad8791671543f9b0e2f3a81c50fff73"
+}
